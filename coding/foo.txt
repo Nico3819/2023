@@ -1,0 +1,5 @@
+In this chapter, you learned about Python’s built-in functions, such
+as float and int, which can turn numbers with decimal points into
+integers and vice versa. You also saw how the len function can make
+looping easier, and how Python can be used to open files in order
+to read from them and write to them.
